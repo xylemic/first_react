@@ -6,12 +6,16 @@ html {
 *:before,
 *:after {
   box-sizing: inherit;
+  padding: o;
+  margin: 0;
 }
 
 body {
-  padding: o;
-  margin: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background: #333;
   color: #fff;
 }
+
+/* p {
+  color: aquamarine;
+} */
